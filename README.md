@@ -8,15 +8,14 @@ A full-stack web application for tracking personal expenses with real-time analy
 
 ## Screenshots
 
-## Screenshots
-
 ### Login Page
-![Login](login.png)
+![Login](login.png.png)
 
 ### Dashboard
-![Dashboard 1](Dashboard1.png)
+![Dashboard 1](Dashboard1.png.png)
 
-![Dashboard 2](Dashboard2.png)
+![Dashboard 2](Dashboard2.png.png)
+
 
 ---
 
