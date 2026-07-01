@@ -2,14 +2,21 @@
 
 A full-stack web application for tracking personal expenses with real-time analytics. Built with Django REST Framework and React, featuring JWT authentication, PostgreSQL database, and interactive charts.
 
-🔗 **Live Demo:** _[add your deployed link here]_
 📁 **GitHub:** https://github.com/vunnam-sirisha19/expense-tracker
 
 ---
 
 ## Screenshots
 
-> _Add screenshots of your login page and dashboard here after taking them_
+## Screenshots
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Dashboard 1](Dashboard1.png)
+
+![Dashboard 2](Dashboard2.png)
 
 ---
 
