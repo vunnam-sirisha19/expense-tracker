@@ -3,6 +3,8 @@
 A full-stack web application for tracking personal expenses with real-time analytics. Built with Django REST Framework and React, featuring JWT authentication, PostgreSQL database, and interactive charts.
 
 📁 **GitHub:** https://github.com/vunnam-sirisha19/expense-tracker
+🔗 **Live Demo:** [expense-tracker-eight-theta-42.vercel.app](https://expense-tracker-eight-theta-42.vercel.app/)
+🔧 **Backend API:** [expense-tracker-9vvm.onrender.com](https://expense-tracker-9vvm.onrender.com)
 
 ---
 
